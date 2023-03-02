@@ -1,6 +1,6 @@
 import logging
 from scapy.all import *
-from datetime import 
+from datetime import dattime
 
 # Set up logging configuration
 logging.basicConfig(filename='logs.log', level=logging.DEBUG)
