@@ -2,7 +2,7 @@ import logging
 from scapy.all import *
 from datetime import datetime
 
-# Set up logging configuration
+# Set up logging configurationn
 logging.basicConfig(filename='logs.log', level=logging.DEBUG)
 
 # Define a function to analyze ping packets
